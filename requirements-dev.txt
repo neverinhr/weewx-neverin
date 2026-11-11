@@ -1,0 +1,2 @@
+weewx>=5.0
+pytest
